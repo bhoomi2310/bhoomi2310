@@ -9,7 +9,7 @@
 Curious mind. Coffee-fueled coder. Always chasing that *one last bug* 🐛.  
 I love turning ideas into sleek UIs, solving problems with logic, and collaborating with awesome people.  
 
-💻 Check out my [Portfolio Website](https://resume-website-six-ruby.vercel.app/#background)  
+💻 Check out my [Portfolio Website](https://resume-website-six-ruby.vercel.app/)  
 
 ---
 
