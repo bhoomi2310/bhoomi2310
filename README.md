@@ -29,7 +29,3 @@ I love turning ideas into sleek UIs, solving problems with logic, and collaborat
 ### 🤝 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhoomi23/)  
 
----
-
-### ✨ Motto  
-*"Build. Break. Learn. Repeat." 🔁*
