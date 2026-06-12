@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Hey%2C+I'm+Bhoomi! alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E879F9&center=true&vCenter=true&width=400&lines=Hey%2C+I'm+Bhoomi!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://resume-website-sand.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-C026D3?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/bhoomi2310" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -56,11 +56,11 @@
 <br/>
 
 **AI & Automation** <br/>
-<img src="https://img.shields.io/badge/Generative_AI-0ea5e9?style=flat&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Agentic_AI-0284c7?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-0369a1?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/RPA-0ea5e9?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative_AI-C026D3?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_AI-A21CAF?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-7E22CE?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-6B21A8?style=flat&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RPA-9333EA?style=flat&logoColor=white" />
 
 <br/>
 
@@ -76,8 +76,8 @@
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomi2310&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhoomi2310&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E879F9&icon_color=A855F7&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi2310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E879F9" height="150" alt="languages graph" />
 </div>
 
 ---
@@ -95,9 +95,9 @@
 ### 🧩 Contribution History
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomi2310&bg_color=0d1117&color=38bdf8&line=38bdf8&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomi2310&bg_color=0d1117&color=E879F9&line=A855F7&point=FFFFFF&hide_border=true" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhoomi2310&label=Profile%20Views&color=0ea5e9&style=flat" alt="bhoomi-views" />
+  <img src="https://komarev.com/ghpvc/?username=bhoomi2310&label=Profile%20Views&color=a855f7&style=flat" alt="bhoomi-views" />
 </p>
