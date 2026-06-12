@@ -86,9 +86,9 @@
 
 | 🚀 Project | 📝 Description | 🛠 Tech Stack |
 | :--- | :--- | :--- |
-| [**Naksha**](https://github.com/bhoomi2310) | Smart Roads Navigation with ML-based route optimizer weighing safety, cost & road quality. | `React` `TypeScript` `ML` |
-| [**WorkMark**](https://github.com/bhoomi2310) | AI Micro-Internship Platform with skill verification, candidate profiling & recruiter matching. | `MERN` `JWT` `AI` |
-| [**Smart Sensor Pipeline**](https://github.com/bhoomi2310) | Embedded C fault detection pipeline with moving average filtering & hysteresis-based classification. | `C` `Embedded` `ADC` |
+| [**Naksha**](https://github.com/bhoomi2310/Naksha-Smart-India-Navigation) | Smart Roads Navigation with ML-based route optimizer weighing safety, cost & road quality. | `React` `TypeScript` `ML` |
+| [**WorkMark**](https://github.com/bhoomi2310/WorkMark) | AI Micro-Internship Platform with skill verification, candidate profiling & recruiter matching. | `MERN` `JWT` `AI` |
+| [**Smart Sensor Pipeline**](https://github.com/bhoomi2310/smart-sensor-fault-detection) | Embedded C fault detection pipeline with moving average filtering & hysteresis-based classification. | `C` `Embedded` `ADC` |
 
 ---
 
